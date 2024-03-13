@@ -8,4 +8,4 @@ aws_access_key_id=XXXXXX
 aws_secret_access_key=YYYYYY
 aws_session_token=ZZZZZZ
 ```
-teste2
+teste3
